@@ -1,0 +1,70 @@
+{
+  "campaignId": "demo-ugt-activity-mining",
+  "accountId": "wallet-demo-123",
+  "walletType": "evm",
+  "events": [
+    {
+      "eventId": "evt-login-001",
+      "type": "wallet_login",
+      "ruleId": "wallet-onboarding",
+      "occurredAt": "2026-05-01T10:00:00.000Z",
+      "source": "wallet",
+      "confidence": 1
+    },
+    {
+      "eventId": "evt-game-001",
+      "type": "game_session_completed",
+      "ruleId": "citychain-season-demo",
+      "occurredAt": "2026-05-01T10:18:00.000Z",
+      "source": "game",
+      "confidence": 0.94,
+      "metadata": {
+        "sessionMinutes": 18,
+        "result": "completed"
+      }
+    },
+    {
+      "eventId": "evt-market-001",
+      "type": "marketplace_order",
+      "ruleId": "marketplace-starter-quest",
+      "occurredAt": "2026-05-01T11:05:00.000Z",
+      "source": "marketplace",
+      "confidence": 0.98,
+      "metadata": {
+        "orderId": "order-demo-001",
+        "assetType": "digital_good"
+      }
+    },
+    {
+      "eventId": "evt-nft-001",
+      "type": "nft_check",
+      "ruleId": "collector-verification",
+      "occurredAt": "2026-05-01T11:07:00.000Z",
+      "source": "marketplace",
+      "confidence": 0.91
+    },
+    {
+      "eventId": "evt-api-001",
+      "type": "developer_api_test",
+      "ruleId": "partner-api-sandbox",
+      "occurredAt": "2026-05-01T12:30:00.000Z",
+      "source": "developer",
+      "confidence": 0.9,
+      "metadata": {
+        "endpoint": "mock/reward-score",
+        "status": "passed"
+      }
+    },
+    {
+      "eventId": "evt-docs-001",
+      "type": "tutorial_contribution",
+      "ruleId": "builder-docs-week",
+      "occurredAt": "2026-05-01T13:40:00.000Z",
+      "source": "community",
+      "confidence": 0.86,
+      "metadata": {
+        "contributionType": "walkthrough"
+      }
+    }
+  ]
+}

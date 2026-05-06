@@ -1,0 +1,23 @@
+{
+  "name": "ugt-activity-mining-sandbox",
+  "version": "0.1.0",
+  "description": "Mock useful-action scoring for UGT ecosystem activity mining narratives.",
+  "type": "module",
+  "scripts": {
+    "demo": "node src/demo.mjs examples/activity-events.json",
+    "check": "node --check src/demo.mjs && node src/demo.mjs examples/activity-events.json"
+  },
+  "keywords": [
+    "ugt",
+    "activity-mining",
+    "web3-games",
+    "marketplace",
+    "quest-system",
+    "contribution-mining",
+    "web3"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
