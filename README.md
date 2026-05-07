@@ -4,6 +4,19 @@ A tiny open-source sandbox for modeling useful-action scoring in UGT ecosystem a
 
 This is designed for Web3 game teams, marketplace builders, quest operators, and developer communities that want to describe contribution-based participation without promising token rewards, yield, airdrops, or income.
 
+## Start Here
+
+If you build games, marketplaces, quests, wallet communities, or developer ecosystems, the best way to help is one concrete rule proposal.
+
+- Start issue: https://github.com/huzheyu93-afk/ugt-activity-mining-sandbox/issues/1
+- Good first issue: https://github.com/huzheyu93-afk/ugt-activity-mining-sandbox/issues/4
+- Feedback prompt: https://github.com/huzheyu93-afk/ugt-activity-mining-sandbox/issues/3
+- Seed discussion: https://github.com/huzheyu93-afk/ugt-activity-mining-sandbox/discussions/2
+
+Useful question:
+
+> Which useful action should count, and which anti-abuse cap should stop repeated low-quality activity?
+
 ## What It Demonstrates
 
 - Wallet-linked activity events
