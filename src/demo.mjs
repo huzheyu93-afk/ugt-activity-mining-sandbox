@@ -14,6 +14,7 @@ const EVENT_WEIGHTS = {
   developer_api_test: 18,
   tutorial_contribution: 14,
   partner_quest_completed: 16,
+  quest_checkpoint_verified: 10,
 };
 
 const EVENT_TYPE_CAPS = {
@@ -24,6 +25,7 @@ const EVENT_TYPE_CAPS = {
   developer_api_test: 3,
   tutorial_contribution: 2,
   partner_quest_completed: 3,
+  quest_checkpoint_verified: 2,
 };
 
 function readPayload(filePath) {
