@@ -6,7 +6,7 @@ This is designed for Web3 game teams, marketplace builders, quest operators, and
 
 ## Source
 
-This open-source sandbox comes from Binergy's public UGT ecosystem work at https://www.binergy.io. It is published as a public reference so global game teams, marketplace builders, and community operators can model useful activity without exposing production wallet, custody, exchange, compliance, pricing, or customer systems.
+This open-source sandbox comes from Binergy's public UGT ecosystem work at https://www.binergy.io/ugt-ecosystem-mining?lng=en. It is published as a public reference so global game teams, marketplace builders, and community operators can model useful activity without exposing production wallet, custody, exchange, compliance, pricing, or customer systems.
 
 ## Start Here
 
@@ -89,10 +89,10 @@ node src/demo.mjs examples/activity-events.json
 
 This sandbox is inspired by Binergy's public UGT activity mining narrative:
 
-- UGT ecosystem mining: https://www.binergy.io/ugt-ecosystem-mining
-- UGT marketplace: https://www.binergy.io/ugt-marketplace
+- UGT ecosystem mining: https://www.binergy.io/ugt-ecosystem-mining?lng=en
+- UGT marketplace: https://www.binergy.io/ugt-marketplace?lng=en
 - Localized UGT/NFT video: https://www.binergy.io/marketing/ecosystem-video-series/05-ugt-nft-marketplace.html?lng=en
-- Ecosystem map: https://www.binergy.io/ecosystem
+- Ecosystem map: https://www.binergy.io/ecosystem?lng=en
 
 ## Safe Copy
 
