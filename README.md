@@ -4,6 +4,10 @@ A tiny open-source sandbox for modeling useful-action scoring in UGT ecosystem a
 
 This is designed for Web3 game teams, marketplace builders, quest operators, and developer communities that want to describe contribution-based participation without promising token rewards, yield, airdrops, or income.
 
+## Source
+
+This open-source sandbox comes from Binergy's public UGT ecosystem work at https://www.binergy.io. It is published as a public reference so global game teams, marketplace builders, and community operators can model useful activity without exposing production wallet, custody, exchange, compliance, pricing, or customer systems.
+
 ## Start Here
 
 If you build games, marketplaces, quests, wallet communities, or developer ecosystems, the best way to help is one concrete rule proposal.
